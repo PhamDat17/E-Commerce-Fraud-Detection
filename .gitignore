@@ -1,0 +1,13 @@
+# Ignore Data
+data/
+*.csv
+
+# Ignore Models
+*.pkl
+*.h5
+*.joblib
+
+# Ignore System/Config files
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
